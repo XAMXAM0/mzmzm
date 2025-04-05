@@ -1,0 +1,37 @@
+body{
+    background-color: cornsilk;
+    text-align: center;
+    
+}
+.bar{
+    top: 0;
+    right: 50;
+    width: 100%;
+    background-color: #00acab;
+    
+  }
+
+  .container-navbar {
+
+  }
+  
+  .ul-navbar {
+  list-style-type: none;
+  display: flex;
+
+  }
+  
+  .li-navbar{       
+  color: black;
+  padding: 20px;
+  margin: 1px;
+  text-decoration: none;
+
+  }
+
+  .li-navbar:hover {
+  background-color: #ae0f11;
+  transition: .5s ease-in-out;
+  transition-delay: .3s;
+  border-radius: 8px;
+  }
